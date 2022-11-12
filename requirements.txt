@@ -1,0 +1,4 @@
+ipykernel
+opencv-python
+matplotlib
+opencv-contrib-python==3.4.2.17 # push for this version, SIFT is removed in later versions
